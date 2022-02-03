@@ -1,0 +1,36 @@
+.picture {
+    display: inline-block;
+    margin: 5px;
+}
+
+.gallery img {
+    height: 150px;
+    border: 5px Double #ce7e00;
+}
+
+.gallery p {
+    text-align: center;
+    margin-top: 10px;
+}
+body{
+    text-align:center;
+    background:url(https://wallpaperaccess.com/full/1124103.jpg);
+    color:#0081e3;
+}
+
+h1{
+font-family: 'IM Fell English SC', serif;
+    font-size: 350%;
+}
+
+p{
+    font-family: 'IM Fell English SC', serif;
+    font-size: 150%;
+    border: 5px Dotted #f09200;
+}
+
+button {
+    font-family: 'IM Fell English SC', serif;
+    color:#7d7979;
+    border: 3px Solid #e08a04;
+}
